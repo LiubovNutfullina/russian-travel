@@ -1,0 +1,10 @@
+.place__url-label {
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.7;
+    letter-spacing: 2px;
+    color: #aaa;
+    margin: 0;
+    text-transform: uppercase;
+}
